@@ -36,3 +36,46 @@ A modern and responsive portfolio website built with **Next.js**. This project s
 
    ```bash
    git clone https://github.com/OnlyMD-321/Nextjs-Portfolio.git
+   cd Nextjs-Portfolio
+   ```
+
+2. **Install dependencies**
+
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+
+   ```bash
+   npm run dev
+   ```
+
+5. **Launch the server**
+
+Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to view the application.
+
+## Contributing
+
+Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute to this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Vercel](https://vercel.com/)
+
+## Contact
+- Author: [OnlyMD-321](https://github.com/OnlyMD-321)
+- Email: [mouadomlil.321@gmail.com](mailto:mouadomlil.321@gmail.com).
+
+Feel free to explore the code and customize it to create your own portfolio. If you find this project helpful, don't forget to give it a ⭐!
+
+
+
