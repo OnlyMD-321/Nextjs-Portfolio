@@ -11,12 +11,12 @@ function Navbar() {
         <div className="flex flex-shrink-0 items-center">
           <Link
             href="/">
-              <Image
-                src="/png/logo.png"
-                width={220}
-                height={140}
-                alt="Logo"
-              />          
+            <Image
+              src="/png/logo.png"
+              width={220}
+              height={140}
+              alt="Logo"
+            />
           </Link>
         </div>
 
